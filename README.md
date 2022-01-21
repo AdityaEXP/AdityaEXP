@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityaexp&label=Profile%20views&color=0e75b6&style=flat" alt="adityaexp" /> </p>
 
-- I Am Currently Using [Python](https://www.python.org/)
+- I Am A [Python](https://www.python.org/) Developer
 
-- I Am Leaning **Web Designing**
+- I Am Currently Leaning **Web Designing**
 
 - My Projects Are Avaliable On [My Telegram Channel](https://t.me/TGBotsByLazy)
 

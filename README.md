@@ -11,7 +11,7 @@
 - Reach Me By Clicking Here [Aditya](https://t.me/lazycoderalways)
 
 <h3 align="left">Contact Me</h3>
-[comment]: # (<a href="https://www.fiverr.com/lazyaditya?up_rollout=true" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiver Logo" height="40" width="50" /></a>)
+<!-- <a href="https://www.fiverr.com/lazyaditya?up_rollout=true" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiver Logo" height="40" width="50" /></a>-->
 <a href="https://t.me/lazycoderalways" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" alt="Telegram Logo" height="60" width="60" /></a>
 
 <h3 align="left">Coding Languages I Know</h3>

@@ -6,7 +6,7 @@
 
 - I Am Currently Leaning **Web Designing**
 
-- My Projects Are Avaliable On [My Telegram Channel](https://t.me/TGBotsByLazy)
+- My Projects Are Avaliable On [My Telegram Channel](https://t.me/DexBotsExp)
 
 - Reach Me By Clicking Here [Aditya](https://t.me/lazycoderalways)
 

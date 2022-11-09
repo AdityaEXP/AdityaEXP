@@ -8,7 +8,7 @@
 
 - My Projects Are Avaliable On [My Telegram Channel](https://t.me/TGBotsByLazy)
 
-- Reach Me By Clicking Here [Aditya Dev](https://t.me/lazycoderalways)
+- Reach Me By Clicking Here [Aditya](https://t.me/lazycoderalways)
 
 <h3 align="left">Contact Me</h3>
 <a href="https://www.fiverr.com/lazyaditya?up_rollout=true" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiver Logo" height="40" width="50" /></a>

@@ -25,5 +25,5 @@
 
 <h3 align="left">My Personal Best Cloud Computing Service</h3>
 <p align="left">
-<a href="https://www.mvps.net/?aff=24846"><img src="https://www.mvps.net/img/300.jpg" alt="DigitalOcean Referral Badge" /></a> 
+<a href="https://www.mvps.net/?aff=24846"><img src="https://www.mvps.net/img/300.jpg" alt="MVPS Referral Badge" /></a> 
 </p>

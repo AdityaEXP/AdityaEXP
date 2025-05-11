@@ -23,6 +23,3 @@ I'm a student developer with a strong interest in building practical tools using
 Feel free to connect via email: **adityaad213@gmail.com**
 
 ---
-
-<!-- GitHub Stats -->
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaad213&show_icons=true&theme=default)

@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aditya
 
 I'm a student developer with a strong interest in building practical tools using Python, blockchain technologies, and Telegram bot automation.
+currently exploring AI and ML
 
 ---
 

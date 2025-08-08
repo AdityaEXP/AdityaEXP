@@ -23,4 +23,6 @@ currently exploring AI and ML
 ### 📫 Reach Me
 Feel free to connect via email: **adityaad213@gmail.com**
 
+####Studying at NSUT Delhi
+
 ---

@@ -8,8 +8,9 @@ currently exploring AI and ML
 ### 🧠 Skills & Interests
 - 🔹 Python development (APIs, automation, scripting)
 - 🔹 Blockchain integration (Web3, EVM-based DEXs like PancakeSwap & Uniswap)
+- 🔹 ReactJS & Tailwind (for frontend) 
 - 🔹 Telegram bots for crypto, automation, and utilities
-- 🔹 Backend development with Flask, MongoDB
+- 🔹 Backend development with Flask, MongoDB & MySQL
 
 ---
 
@@ -17,6 +18,7 @@ currently exploring AI and ML
 - Develop custom crypto tools & trading bots
 - Build Telegram-based solutions for business automation
 - Experiment with AI + Web3 integrations
+- Developing Websites
 
 ---
 

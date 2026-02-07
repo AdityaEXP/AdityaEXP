@@ -15,7 +15,7 @@ currently exploring AI and ML
 ---
 
 ### 💼 What I Do
-- Develop custom crypto tools & trading bots
+- Develop custom crypto tools
 - Build Telegram-based solutions for business automation
 - Experiment with AI + Web3 integrations
 - Developing Websites

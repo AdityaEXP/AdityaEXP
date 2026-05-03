@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya
 
 I'm a student developer with a strong interest in building practical tools using Python, blockchain technologies, and Telegram bot automation.
-currently exploring AI and ML
+currently exploring AI and Backend Development.
 
 ---
 
@@ -11,6 +11,7 @@ currently exploring AI and ML
 - 🔹 ReactJS & Tailwind (for frontend) 
 - 🔹 Telegram bots for crypto, automation, and utilities
 - 🔹 Backend development with Flask, MongoDB & MySQL
+- 🔹 Deployment with nginx, gunicorn, systemd/pm2 and linux (ubuntu)
 
 ---
 
@@ -24,7 +25,4 @@ currently exploring AI and ML
 
 ### 📫 Reach Me
 Feel free to connect via email: **adityaad213@gmail.com**
-
-#### Studying at NSUT Delhi
-
 ---

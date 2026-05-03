@@ -24,5 +24,5 @@ currently exploring AI and Backend Development.
 ---
 
 ### 📫 Reach Me
-Feel free to connect via email: **adityaad213@gmail.com**
+- Feel free to connect via email: **adityaad213@gmail.com**
 ---

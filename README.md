@@ -10,7 +10,7 @@ currently exploring AI and Backend Development.
 - 🔹 Blockchain integration with python/js with solidity (Web3, EVM-based DEXs like PancakeSwap & Uniswap)
 - 🔹 ReactJS & Tailwind (for frontend) 
 - 🔹 Telegram bots for crypto, automation, and utilities
-- 🔹 Backend development with Flask, MongoDB & MySQL
+- 🔹 Backend development with Flask, FastAPI, MongoDB, Postgres & Redis
 - 🔹 Deployment with nginx, gunicorn, systemd/pm2 and linux (ubuntu)
 
 ---
